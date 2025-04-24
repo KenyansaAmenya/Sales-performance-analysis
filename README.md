@@ -1,8 +1,8 @@
 # Sales-performance-analysis
 # Steps taken
 1. Data cleaning, sorting and conversion to re usable format.
-2. Calculating total sales value.
 # Statistical analysis
+2. Calculating total sales value.
 3. calculating Average sales value.
 4. calculating total quantity sold.
 5. calculating avergae of quantity sold.
@@ -14,9 +14,9 @@
 9. creating bar chart and dotted line grapgh for salesperson by id.
 # Insights derived from my analysis
 1. in-store & direct sales drive most of the revenue.
-2. both noprth and sount america dominate while africa underperforms despice an huge volume. on the other hand asia and europe domine in online.
+2. both north and south america dominate while africa underperforms despite a huge volume. on the other hand asia and europe domine in online.
 3. There are two types of salespersons volume driven and value-driven.
-4. top performers have not surpassed the 10,000 ceiling.
+4. top performers sales persosns have not surpassed the 10,000 ceiling.
 # Recommendations
 1. fixing under performers
 2. to reward effincieny in revenue.
