@@ -12,6 +12,7 @@
 7. creating bar chart and pie chart for sales by region.
 8. creating bar chart and pie chart and line graph for sales by channel.
 9. creating bar chart and dotted line grapgh for salesperson by id.
+10. creating trends line graph.
 # Insights derived from my analysis
 1. in-store & direct sales drive most of the revenue.
 2. both north and south america dominate while africa underperforms despite a huge volume. on the other hand asia and europe domine in online.
